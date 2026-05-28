@@ -144,9 +144,3 @@ The system predicts whether the news is:
 
 ---
 
-
-
-Saheb Kumar
-
-* GitHub: https://github.com/sahebkumar-ai
-* LinkedIn: https://www.linkedin.com/in/saheb-kumar-0b52963ab/
